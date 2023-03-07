@@ -1,0 +1,15 @@
+C:\C#\Abc\Abc.Northwind.Entities\bin\Debug\net7.0\Abc.Northwind.Entities.deps.json
+C:\C#\Abc\Abc.Northwind.Entities\bin\Debug\net7.0\Abc.Northwind.Entities.dll
+C:\C#\Abc\Abc.Northwind.Entities\bin\Debug\net7.0\Abc.Northwind.Entities.pdb
+C:\C#\Abc\Abc.Northwind.Entities\bin\Debug\net7.0\Abc.Core.dll
+C:\C#\Abc\Abc.Northwind.Entities\bin\Debug\net7.0\Abc.Core.pdb
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\Abc.Northwind.Entities.csproj.AssemblyReference.cache
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\Abc.Northwind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\Abc.Northwind.Entities.AssemblyInfoInputs.cache
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\Abc.Northwind.Entities.AssemblyInfo.cs
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\Abc.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\Abc.Northwind.Entities.csproj.CopyComplete
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\Abc.Northwind.Entities.dll
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\refint\Abc.Northwind.Entities.dll
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\Abc.Northwind.Entities.pdb
+C:\C#\Abc\Abc.Northwind.Entities\obj\Debug\net7.0\ref\Abc.Northwind.Entities.dll

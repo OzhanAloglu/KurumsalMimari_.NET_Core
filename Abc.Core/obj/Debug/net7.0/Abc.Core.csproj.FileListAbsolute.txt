@@ -1,0 +1,12 @@
+C:\C#\Abc\Abc.Core\bin\Debug\net7.0\Abc.Core.deps.json
+C:\C#\Abc\Abc.Core\bin\Debug\net7.0\Abc.Core.dll
+C:\C#\Abc\Abc.Core\bin\Debug\net7.0\Abc.Core.pdb
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\Abc.Core.csproj.AssemblyReference.cache
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\Abc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\Abc.Core.AssemblyInfoInputs.cache
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\Abc.Core.AssemblyInfo.cs
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\Abc.Core.csproj.CoreCompileInputs.cache
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\Abc.Core.dll
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\refint\Abc.Core.dll
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\Abc.Core.pdb
+C:\C#\Abc\Abc.Core\obj\Debug\net7.0\ref\Abc.Core.dll
