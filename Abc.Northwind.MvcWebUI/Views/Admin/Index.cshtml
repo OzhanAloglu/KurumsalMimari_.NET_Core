@@ -1,0 +1,46 @@
+﻿@model Abc.Northwind.MvcWebUI.Models.ProductListViewModel
+
+
+@{
+     Layout = "~/Views/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+
+ <td><a class="btn btn-xs btn-success" asp-controller="Admin" asp-action="Add" >Add a new product</a></td>
+ <br />
+
+    <div>
+        <table class="table table-responsive" >
+            <tr>
+                <td>ProductName</td>
+                <td>UnitPrice</td>
+                <td>UnitsInStock</td>              
+            </tr>
+           
+            @foreach (var product in Model.Products)
+            {
+                 <tr>
+                <td>@product.ProductName</td>
+                <td>@product.UnitPrice</td>
+                <td>@product.UnitsInStock</td>
+                <td><a class="btn btn-xs btn-info" asp-controller="Admin" asp-action="Update" asp-route-productId="@product.ProductId" >Update</a></td>
+                <td><a class="btn btn-xs btn-danger" asp-controller="Admin" asp-action="Delete" asp-route-productId="@product.ProductId" >Delete</a></td>
+                 </tr>
+                
+            }
+           
+        </table>
+        
+    </div>
